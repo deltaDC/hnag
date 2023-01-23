@@ -1,5 +1,4 @@
-*
-{
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -50,6 +49,7 @@ ul {
         font-size: 1.8rem;
     }
 }
+
 @media (max-width: 769px) {
     h1 {
         font-size: 5rem;
@@ -59,6 +59,7 @@ ul {
         font-size: 1.6rem;
     }
 }
+
 @media (max-width: 540px) {
     h1 {
         font-size: 4rem;
@@ -68,6 +69,7 @@ ul {
         font-size: 1.4rem;
     }
 }
+
 @media (max-width: 440px) {
     h1 {
         font-size: 3rem;
